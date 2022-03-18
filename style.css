@@ -1,1 +1,30 @@
-style
+*{
+	background-color: white;
+	font-family: 'Poppins';
+	padding: 10px 100px 10px 100px;
+}
+#coolBlue{
+	color: white;
+	background-color: #2d5dcc;
+}
+#pink{
+	color: black;
+	background-color: #d957d9;
+}
+#mintGreen{
+	color: black;
+	background-color: #4fe0b0;
+}
+#beige{
+	color: black;
+	background-color: #efd9ca;
+}
+.colors{
+	border: 1px solid gray;
+}
+.fonts{
+	border: 1px solid gray;
+}
+.textStyles{
+	border: 1px solid gray;
+}
